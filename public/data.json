@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "food_name": "Margherita Pizza",
+    "food_photo": "https://i.ibb.co.com/M59P7pN/photo-1573821663912-6df460f9c684.jpg",
+    "title": "Classic Italian Pizza",
+    "price": 8.99,
+    "unique_id": "food001"
+  },
+  {
+    "id": 2,
+    "food_name": "Cheeseburger",
+    "food_photo": "https://i.ibb.co.com/SNjDb8V/photo-1636907229139-1521583f8f7a.jpg",
+    "title": "Classic Cheeseburger",
+    "price": 10.99,
+    "unique_id": "food002"
+  },
+  {
+    "id": 3,
+    "food_name": "Caesar Salad",
+    "food_photo": "https://i.ibb.co.com/bQCycpD/photo-1633368475188-1f39151aa4e4.jpg",
+    "title": "Classic Caesar Salad",
+    "price": 6.99,
+    "unique_id": "food003"
+  },
+  {
+    "id": 4,
+    "food_name": "Spaghetti Bolognese",
+    "food_photo": "https://i.ibb.co.com/27Rv8wS/premium-photo-1661610605309-77feabcc8772.jpg",
+    "title": "Italian Pasta Dish",
+    "price": 12.49,
+    "unique_id": "food004"
+  },
+  {
+    "id": 5,
+    "food_name": "Chicken Tacos",
+    "food_photo": "https://i.ibb.co.com/hRQ5hMM/photo-1611793413292-cf250cc04aa1.jpg",
+    "title": "Mexican Chicken Tacos",
+    "price": 7.49,
+    "unique_id": "food005"
+  },
+  {
+    "id": 6,
+    "food_name": "Sushi Roll",
+    "food_photo": "https://i.ibb.co.com/94Q5Lwk/photo-1541014741259-de529411b96a.jpg",
+    "title": "Fresh Sushi Roll",
+    "price": 9.99,
+    "unique_id": "food006"
+  },
+  {
+    "id": 7,
+    "food_name": "Pad Thai",
+    "food_photo": "https://i.ibb.co.com/NVDcZhr/photo-1533606117812-0783e8e690f1.jpg",
+    "title": "Thai Noodle Stir-fry",
+    "price": 11.49,
+    "unique_id": "food007"
+  },
+  {
+    "id": 8,
+    "food_name": "Beef Burrito",
+    "food_photo": "https://i.ibb.co.com/jHx0nch/premium-photo-1674511582428-58ce834ce172.jpg",
+    "title": "Hearty Beef Burrito",
+    "price": 8.99,
+    "unique_id": "food008"
+  }
+]
